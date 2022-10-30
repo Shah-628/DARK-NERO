@@ -7,15 +7,15 @@
    "env": {
   
  "OWNER_NAME" :{
-    "description" : "enter you name",
+    "description" : "Zeeshan Shah",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "zeeshan "
     },
     
      
      
 "ALIVE_MSG" :{
-    "description" : "enter you msg",
+    "description" : "Avialable",
     "required" : true,
   "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
     },
